@@ -1,0 +1,131 @@
+<resources>
+    <string name="app_name">Flosza</string>
+    <string name="apakabar001">Bagaimana Kabarnya ?</string>
+    <string name="Hallo">Tinggal dimana sekarang!</string>
+    <string name="count_initial_value">0</string>
+    <string name="button_label_toast">Project Hello Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="button_fibonacci_limit">limit_input</string>
+    <string name="button_label_fibonacci">Project Fibonacci</string>
+    <string name="fibonacci_message">Program Fibonacci</string>
+    <string name="button_alarm">Alarm</string>
+    <string name="toast_pesan">Hebat Bro!</string>
+
+    <string name="button_label_pro_sianida">Project Sianida</string>
+    <string name="button_label_pro_two_activity">Project TwoActivity</string>
+    <string name="button_label_pro_set_alarm">Project Set Alarm</string>
+    <string name="button_label_pro_set_maps">Project Set Maps</string>
+
+
+    <string name="crashlandingonyou">Crash Landing on You, atau CLOY, adalah drama Korea Selatan bergenre komedi romantis yang populer. Sinopsisnya berkisar pada: \n\n
+
+    Yoon Se Ri, pewaris perusahaan kaya raya dari Korea Selatan, sedang melakukan paragliding dan tersapu angin kencang hingga mendarat darurat di wilayah Korea Utara. Dia diselamatkan oleh Ri Jeong-hyeok, kapten elit militer Korea Utara yang bertugas di perbatasan. Se Ri terpaksa bersembunyi di rumah Jeong-hyeok dan mereka berpura-pura pacaran. \n\n
+
+    Keadaan menjadi rumit ketika keduanya mulai jatuh cinta, namun dipisahkan oleh perbedaan latar belakang yang sangat kontras. Jeong-hyeok memiliki tunangan dari keluarga terpandang di Korea Utara, dan kehidupan mereka diawasi ketat oleh pihak intelijen. Se Ri juga harus mencari cara kembali ke Korea Selatan tanpa menimbulkan kecurigaan. \n\n
+
+    Kisah cinta mereka diwarnai dengan lika-liku, konflik budaya, dan momen-momen menegangkan. Jeong-hyeok dan Se Ri dibantu oleh teman-teman tentara Jeong-hyeok, serta keluarga dan perusahaannya di Korea Selatan. Mereka semua bersatu untuk membantu rencana pemulangan Se Ri, bahkan jika itu berarti mempertaruhkan nyawa mereka. \n\n</string>
+
+
+    <string name="hospitalplaylist">Hospital Playlist berpusat pada kisah persahabatan lima orang dokter yang terjalin erat sejak mereka masuk sekolah kedokteran pada tahun 1999 \n\n
+
+    Drama ini tidak hanya menampilkan kehidupan profesional mereka sebagai dokter, tetapi juga kehidupan pribadi mereka, lika-liku percintaan, dan hobi mereka yang unik. Salah satu hobi mereka yang paling menonjol adalah musik. Mereka membentuk sebuah band bernama "Flaming Five" dan rutin berlatih di ruang band rumah sakit.\n\n</string>
+
+
+    <string name="startup">Start-Up adalah drama Korea yang menyelami dunia startup teknologi yang dinamis dan individu-individu bersemangat yang berani bermimpi besar. Bertempat di Sandbox, versi Korea Selatan fiksi dari Silicon Valley, cerita ini mengikuti Seo Dal-mi dan Nam Do-san saat mereka mengarungi pasang surut yang menegangkan dan menghancurkan dari wirausaha, sambil terlibat dalam cinta segitiga yang kompleks. \n\n
+
+    Saat Dal-mi memulai untuk membangun aplikasi terjemahan bertenaga AI-nya, Nomad, dia bertemu Do-san dan Ji-pyeong. Do-san, dengan bantuan teman-teman setianya dan sedikit kebohongan kecil, bergabung dengan Dal-mi, berpura-pura menjadi jenius pemrograman di balik Nomad. Sementara itu, Ji-pyeong menjadi investor mereka, tertarik pada semangat Dal-mi dan tertarik pada Do-san yang misterius. \n\n
+
+    Start-Up lebih dari sekadar kisah startup. Ini adalah permadani yang ditenun dengan tema penemuan diri, kesempatan kedua, dan kekuatan mimpi yang bertahan lama. Saat Dal-mi, Do-san, dan Ji-pyeong mengejar aspirasi mereka, mereka menghadapi tantangan, pengkhianatan, dan patah hati, tetapi semangat mereka yang tak tergoyahkan dan ikatan yang mereka bentuk di sepanjang jalan membuat perjalanan semakin memikat. \n\n</string>
+
+
+    <string name="spiritedaway">Spirited Away adalah film animasi Jepang tahun 2001 yang disutradarai oleh Hayao Miyazaki dan diproduksi oleh Studio Ghibli. Film ini menceritakan kisah Chihiro Ogino, seorang gadis 10 tahun yang tersesat di dunia roh dan harus bekerja di pemandian milik Yubaba, seorang penyihir. \n\n
+
+    Chihiro dan orang tuanya sedang dalam perjalanan pindah rumah ketika mereka tersesat di sebuah terowongan misterius. Terowongan tersebut membawa mereka ke dunia roh, tempat para dewa dan roh hidup. Orang tua Chihiro berubah menjadi babi karena memakan makanan dari dunia roh, dan Chihiro harus mencari cara untuk membebaskan mereka. \n\n
+
+    Chihiro bertemu dengan Haku, seorang roh yang bekerja di pemandian Yubaba. Haku membantu Chihiro mendapatkan pekerjaan di pemandian dan mengajarinya cara bertahan hidup di dunia roh. Chihiro juga berteman dengan Lin, seorang gadis yang bekerja di pemandian. \n\n
+
+    Suatu hari, Chihiro mengetahui bahwa Haku adalah roh sungai yang diubah oleh Yubaba. Chihiro bertekad untuk menyelamatkan Haku dan mengembalikannya ke bentuk aslinya. \n\n
+
+    Chihiro menemukan cara untuk melewati ujian Yubaba dan membebaskan Haku. Chihiro dan orang tuanya kembali ke dunia manusia, dan Chihiro berjanji untuk tidak pernah melupakan pengalamannya di dunia roh. \n\n</string>
+
+
+    <string name="howlsmovingcastle">Howls Moving Castle adalah film animasi Jepang tahun 2004 yang disutradarai oleh Hayao Miyazaki dan diproduksi oleh Studio Ghibli. Film ini didasarkan pada novel dengan judul yang sama karya Diana Wynne Jones. \n\n
+
+    Film ini menceritakan kisah Sophie Hatter, seorang gadis pembuat topi berusia 18 tahun yang dikutuk oleh penyihir jahat menjadi nenek tua. Sophie melarikan diri dari rumah dan bertemu dengan Howl, seorang penyihir misterius yang tinggal di kastil yang bisa berjalan. \n\n
+
+    Sophie bekerja sebagai pembersih di kastil Howl, dan dia bertemu dengan Calcifer, api hidup yang memberi kekuatan pada kastil. Sophie juga berteman dengan Markl, murid Howl. \n\n
+
+    Suatu hari, Sophie mengetahui bahwa Howl sedang diburu oleh penyihir jahat bernama penyihir pembuangan. Sophie bertekad untuk membantu Howl dan menyelamatkannya dari penyihir pembuangan. \n\n
+
+    Sophie dan Howl melakukan perjalanan bersama untuk menemukan cara untuk memecahkan kutukan Sophie. Mereka menghadapi berbagai tantangan di sepanjang jalan, termasuk penyihir pembuangan, perang, dan kekuatan cinta. \n\n
+
+    Akhirnya, Sophie berhasil memecahkan kutukannya, dan dia dan Howl hidup bahagia selamanya \n\n</string>
+
+
+    <string name="ponyo">Ponyo adalah film animasi Jepang tahun 2008 yang disutradarai oleh Hayao Miyazaki dan diproduksi oleh Studio Ghibli. Film ini menceritakan kisah seorang anak ikan ajaib bernama Ponyo yang berubah menjadi manusia. \n\n
+
+    Ponyo tinggal di dasar laut bersama ayahnya, Fujimoto, seorang ilmuwan dan penyihir. Ponyo ingin menjadi manusia, dan dia mencuri obat sihir milik ayahnya. Obat sihir tersebut membuat Ponyo berubah menjadi manusia, tetapi dia masih memiliki sirip ikan. \n\n
+
+    Ponyo bertemu dengan Sosuke, seorang anak laki-laki berusia lima tahun yang tinggal di dekat pantai. Sosuke menyelamatkan Ponyo dari ikan besar, dan mereka menjadi teman. \n\n
+
+    Ayah Ponyo marah karena Ponyo menjadi manusia. Dia mengirim pasukannya untuk membawa Ponyo kembali ke laut. Sosuke dan Ponyo bekerja sama untuk melawan pasukan Fujimoto, dan mereka akhirnya berhasil membebaskan Ponyo dari pengaruh ayahnya. \n\n
+
+    Ponyo dan Sosuke hidup bahagia bersama sebagai manusia. Mereka belajar untuk menerima perbedaan mereka dan saling mencintai. \n\n</string>
+
+
+    <string name="sweethome">Sweet Home adalah serial televisi Korea Selatan tahun 2020 yang diadaptasi dari webtoon dengan judul yang sama. \n\n
+
+    Serial ini menceritakan kisah Cha Hyun-su, seorang remaja SMA yang pindah ke apartemen Green Home setelah kematian keluarganya. Hyun-su adalah orang yang penyendiri dan tertutup, dan dia tidak memiliki teman atau keluarga. \n\n
+
+    Suatu hari, sebuah wabah misterius menyebar di seluruh dunia, mengubah manusia menjadi monster yang mengerikan. Hyun-su dan penghuni Green Home lainnya harus berjuang untuk bertahan hidup dari monster-monster tersebut. \n\n
+
+    Seiring waktu, Hyun-su dan penghuni Green Home lainnya mulai bekerja sama untuk bertahan hidup. Mereka belajar untuk saling percaya dan bekerja sama untuk melindungi diri mereka sendiri. \n\n
+
+    Serial ini mengeksplorasi tema-tema seperti kemanusiaan, persahabatan, dan harapan. Serial ini juga menampilkan aksi dan horor yang menegangkan. \n\n</string>
+
+
+    <string name="onepiece">One Piece bersetting di dunia fiksi di mana bajak laut menguasai lautan. Monkey D. Luffy, seorang pemuda yang memiliki kekuatan tubuh elastis seperti karet setelah memakan Buah Iblis, bertekad untuk menjadi Raja Bajak Laut. Luffy memulai petualangannya dengan mengumpulkan kru bajak laut yang kuat dan loyal. \n\n
+
+    Luffy dan krunya telah menghadapi berbagai tantangan di sepanjang perjalanan mereka, termasuk bajak laut jahat, pemerintah dunia, dan kekuatan alam. Mereka juga telah belajar banyak tentang dunia dan diri mereka sendiri. \n\n
+
+    One Piece adalah seri manga dan anime yang penuh aksi, petualangan, dan makna. Seri ini adalah kisah tentang persahabatan, kebebasan, dan keadilan. \n\n </string>
+
+
+    <string name="squidgame">Squid Game adalah serial televisi Korea Selatan tahun 2021. Serial ini menceritakan kisah Seong Gi-hun (Lee Jung-jae), seorang penjudi yang sedang berjuang untuk menafkahi putrinya. Gi-hun menerima undangan misterius untuk mengikuti permainan yang menawarkan hadiah uang tunai sebesar 45,6 miliar won. Gi-hun menerima undangan tersebut dan bergabung dengan 455 orang lainnya dalam permainan yang mematikan. \n\n
+
+    Permainan tersebut terdiri dari enam permainan anak-anak yang familiar, tetapi dengan twist yang mematikan. Jika seorang pemain kalah, dia akan dibunuh. Pemain harus menggunakan segala kemampuan dan kelicikannya untuk bertahan hidup dan memenangkan hadiah uang tunai. \n\n
+
+    Selama permainan, para pemain harus berhadapan dengan tantangan moral dan etika. Mereka harus memutuskan apakah mereka akan bermain jujur atau curang, dan apakah mereka akan membunuh atau menyelamatkan orang lain. \n\n</string>
+
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+
+Highlights include: \n\n
+
+Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+
+My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+
+Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n
+
+Love Me Do — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+
+She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark. \n\n
+
+Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959  hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+
+One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an feel to it.
+    </string>
+
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter You Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
